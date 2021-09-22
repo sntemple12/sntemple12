@@ -10,11 +10,11 @@
 
 -->
 <h3 align="left"> Connect with me:</h3>
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />}][linkedin]
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 [<img align="left" style="margin-right: 1.5rem" alt="Kaggle" width="36px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" />][kaggle]
 
-<a href="sntemple12@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:sntemple12@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
 
 ## Technical Skills:
 
