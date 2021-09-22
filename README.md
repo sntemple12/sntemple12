@@ -10,7 +10,7 @@
 
 -->
 <h3 align="left"> Connect with me:</h3>
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<!-- [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin] -->
 
 [<img align="left" style="margin-right: 1.5rem" alt="Kaggle" width="36px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" />][kaggle]
 
@@ -82,10 +82,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br />
-
-[linkedin]: https://www.linkedin.com/in/samantha-temple-487a3620a/
-[kaggle]: https://www.kaggle.com/samanthatemple
 
 
 <a href="https://github.com/anuragh
@@ -95,3 +91,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntemple12&show_icons=true&locale=en&theme=synthwave" />
 </a>
+<br />
+
+[linkedin]: https://www.linkedin.com/in/samantha-temple-487a3620a/
+[kaggle]: https://www.kaggle.com/samanthatemple
