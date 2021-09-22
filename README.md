@@ -86,3 +86,12 @@
 
 [linkedin]: https://www.linkedin.com/in/samantha-temple-487a3620a/
 [kaggle]: https://www.kaggle.com/samanthatemple
+
+
+<a href="https://github.com/anuragh
+         azra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntemple12&hide=jupyter%20notebook&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntemple12&show_icons=true&locale=en&theme=synthwave" />
+</a>
